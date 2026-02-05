@@ -21,3 +21,5 @@ architecture, methodology, results, and explainability analysis is available her
 
 `presentation/Explainable_AI_Medical_Diagnosis_Presentation.pdf`
 
+Made by: **Sanya Goyal, Tanisha Verma**
+
